@@ -8,13 +8,13 @@
 3. change directory</br>
  $ cd ./react-practical2
 
-4. Install dependency
+4. Install dependency</br>
  $ npm install
 
-5. Run the app
+5. Run the app</br>
  $ npm start
 
-6. Production build
+6. Production build</br>
  $ npm run build
 
 css-loader and style-loader used for loading css files.
