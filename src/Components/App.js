@@ -1,6 +1,12 @@
 import React from "react";
-
-function App(){
-    return <p>HELLO THERE!!</p>
+import "./App.css";
+import img from '../assets/train.jpg'
+function App() {
+  return (
+    <div>
+      <p className="paragraph">HELLO THERE!!</p>
+      <img className="image" src={img} alt="train!"/>
+    </div>
+  );
 }
 export default App;
