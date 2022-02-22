@@ -5,7 +5,7 @@
 2. Clone the repo
  $ git clone https://github.com/smeekas/react-practical2/
 
-3. change directory
+3. change directory</br>
  $ cd ./react-practical2
 
 4. Install dependency
