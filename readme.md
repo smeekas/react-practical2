@@ -21,29 +21,29 @@
 2. Clone the repo</br>
 
 ```sh
- $ git clone https://github.com/smeekas/react-practical2/
+  git clone https://github.com/smeekas/react-practical2/
 ```
 
 3. change directory</br>
 
 ```sh
- $ cd ./react-practical2
+  cd ./react-practical2
 ```
 
 4. Install dependency</br>
 
 ```sh
- $ npm install
+  npm install
 ```
 
 5. Run the app</br>
 
 ```sh
- $ npm start
+  npm start
 ```
 
 6. Production build</br>
 
 ```sh
- $ npm run build
+  npm run build
 ```
