@@ -3,10 +3,13 @@
 ## react app with babel and webpack.
 #### loader used in this app are..
  1.css loader
+
  2.style loader
+
  3.babel-loader
 
 ->css-loader and style-loader used for loading css files.
+
 ->babel-loader used for  transpiling Js files containing component into normal Js files which browser    understand
 
 
